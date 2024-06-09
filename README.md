@@ -16,10 +16,10 @@ the [Tinkoff Backend Academy](https://fintech.tinkoff.ru/academy/backend/). Each
 - [secure-todo-list](https://github.com/ilystsov/secure-todo-list/tree/hw_13) - for learning secure software development on example of 
 protection against XSS attacks, CSRF, JWT and session tokens
 - [kubernetes](https://github.com/ilystsov/kubernetes/tree/hw_1) - to learn k8s
-- [grpc](https://github.com/ilystsov/grpc/tree/hw_2) - focuses on using gRPC for service communication.
+- [grpc](https://github.com/ilystsov/grpc/tree/hw_2) - focuses on using gRPC for service communication
 - [sse-webhooks](https://github.com/ilystsov/sse-webhooks/tree/hw_3) - to learn SSE and Webhooks
-- [graphql](https://github.com/ilystsov/graphql/tree/homework) - to understand the Layered Architecture and learn GraphQL.
+- [graphql](https://github.com/ilystsov/graphql/tree/homework) - to understand the Layered Architecture and learn GraphQL
 - [rabbitmq](https://github.com/ilystsov/rabbitmq/tree/homework) - to learn RabbitMQ
 - [sqlalchemy](https://github.com/ilystsov/sqlalchemy/tree/homework) - to deep dive into SQLAlchemy
-- [kafka](https://github.com/ilystsov/kafka) - to learn Kafka
+- [kafka](https://github.com/ilystsov/kafka/tree/homework) - to learn Kafka
 - [airflow](https://github.com/ilystsov/airflow) - to learn how to build task pipelines with Airflow
