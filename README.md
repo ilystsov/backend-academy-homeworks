@@ -22,4 +22,5 @@ protection against XSS attacks, CSRF, JWT and session tokens
 - [rabbitmq](https://github.com/ilystsov/rabbitmq/tree/homework) - to learn RabbitMQ
 - [sqlalchemy](https://github.com/ilystsov/sqlalchemy/tree/homework) - to deep dive into SQLAlchemy
 - [kafka](https://github.com/ilystsov/kafka/tree/homework) - to learn Kafka
+- [rest](https://github.com/ilystsov/rest/tree/homework) - to understand the REST style and to learn how to generate an API client
 - [airflow](https://github.com/ilystsov/airflow) - to learn how to build task pipelines with Airflow
